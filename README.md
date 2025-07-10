@@ -1,12 +1,6 @@
 # Orthopedic-Patient-Classification
-
----
-
-## Project Overview
-
 This project focuses on classifying orthopedic patients into Normal (NO) and Abnormal (AB) categories using six biomechanical features of the spine and pelvis. The goal is to provide a reliable diagnostic aid for healthcare professionals by leveraging machine learning techniques. We have implemented one Supervised Learning method (KNN) and one Unsupervised Learning we utilized a Gaussian Mixture Model(GMM) with Expectation-Maximization(EM) algorithm on a reduced feature set using PCA for better interpretability.
 
----
 
 ## Contents
 
